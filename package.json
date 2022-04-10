@@ -1,0 +1,19 @@
+{
+  "name": "kubera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "RuQ",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15"
+  }
+}

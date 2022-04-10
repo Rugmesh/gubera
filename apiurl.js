@@ -1,0 +1,28 @@
+var apiurl = [
+    "https://ebs.tredcode.com/study-data/MONEYFLOW%20ABS",
+    "https://ebs.tredcode.com/study-data/MONEYFLOW%20REL",
+    "https://ebs.tredcode.com/study-data/NEAR%20DAYS%20HIGH",
+    "https://ebs.tredcode.com/study-data/NEAR%20DAYS%20LOW",
+    "https://ebs.tredcode.com/study-data/GAINER",
+    "https://ebs.tredcode.com/study-data/LOSSER",
+    "https://ebs.tredcode.com/study-data/5%20minute%20MOMENTUM%20SPIKE",
+    "https://ebs.tredcode.com/study-data/10%20minute%20MOMENTUM%20SPIKE",
+    "https://ebs.tredcode.com/study-data/5%20minute%20MOMENTUM%20SPIKE",
+    "https://ebs.tredcode.com/study-data/5%20minute%20MOMENTUM%20SPIKE",
+    "https://ebs.tredcode.com/study-data/SECTORIAL%20VIEW",
+    "https://ebs.tredcode.com/study-data/NIFTY%2050",
+    "https://ebs.tredcode.com/study-data/NIFTY%20BANK",
+    "https://ebs.tredcode.com/study-data/NIFTY%20AUTO",
+    "https://ebs.tredcode.com/study-data/NIFTY%20FIN%20SERV",
+    "https://ebs.tredcode.com/study-data/NIFTY%20FMCG",
+    "https://ebs.tredcode.com/study-data/NIFTY%20IT",
+    "https://ebs.tredcode.com/study-data/NIFTY%20MEDIA",
+    "https://ebs.tredcode.com/study-data/NIFTY%20METAL",
+    "https://ebs.tredcode.com/study-data/NIFTY%20PHARMA",
+    "https://ebs.tredcode.com/study-data/NIFTY%20PSU%20BANK",
+    "https://ebs.tredcode.com/study-data/NIFTY%20PVT%20BANK",
+    "https://ebs.tredcode.com/study-data/NIFTY%20REALITY",
+    "https://ebs.tredcode.com/study-data/NIFTY%20ENERGY",
+
+];
+export {apiurl};
